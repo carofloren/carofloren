@@ -25,3 +25,7 @@ Mi objetivo principal es sacar el maximo provecho de este hermoso mundo de la te
 Incluyendo HTML y CSS
 
 No dudes en contactarme, estare feliz de sumar nuevos conocimientos y crear a partir de los que ya tengo!
+
+
+Linkedin: www.linkedin.com/in/florencia-banco-caro-a92194230
+Correo: florcaro621@gmail.com
