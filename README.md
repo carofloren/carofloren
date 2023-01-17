@@ -1,16 +1,16 @@
 <h1>Hola👋 soy Flor</h1>
 
-<h2>✨ Quién soy? ✨</h2> 
+<h2>✨ Quién soy?</h2> 
 Soy Programadora Full Stack orientada al desarrollo Front-end.
 Desde pequeña me ha interesado el mundo de la programacion pero no estaba lista para asumir ese gran reto hasta hace un tiempo atras que di el gran salto y empece con mi primer lenguaje que fue JavaScript, una experiencia unica!
 
-<h2>✨ Que hago? ✨</h2> 
+<h2>✨ Que hago?</h2> 
 Actualmente me encuentro realizando proyectos que me permitan perfeccionar mi formacion como programadora y conocer nuevas tecnologias. Me apasiona estar en constante crecimiento!
 
-<h2>✨ Hacia donde me dirijo? ✨ </h2>
+<h2>✨ Hacia donde me dirijo? </h2>
 Mi objetivo principal es sacar el maximo provecho de este hermoso mundo de la tecnologia, poder crear a partir del codigo y encontrar soluciones que brinden ayuda a la comunidad.
 
-<h2>✨ Que tecnologias uso? ✨</h2>
+<h2>✨ Que tecnologias uso?</h2>
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -33,10 +33,9 @@ Mi objetivo principal es sacar el maximo provecho de este hermoso mundo de la te
 
 
 No dudes en contactarme, estare feliz de sumar nuevos conocimientos y crear a partir de los que ya tengo!
-
-<a href="www.linkedin.com/in/florencia-banco-caro-a92194230" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<p align="left" dir="auto">
+<a href="www.linkedin.com/in/florencia-banco-caro-a92194230" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mat%c3%adas-monastirsky/" height="30" width="40" style="max-width: 100%;"></a>
+</p>
 
 Correo: florcaro621@gmail.com
 
