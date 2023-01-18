@@ -34,7 +34,7 @@ Mi objetivo principal es sacar el maximo provecho de este hermoso mundo de la te
 
 No dudes en contactarme, estare feliz de sumar nuevos conocimientos y crear a partir de los que ya tengo!
 <p align="left" dir="auto">
-<a href="www.linkedin.com/in/florencia-banco-caro-a92194230" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mat%c3%adas-monastirsky/" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/florencia-banco-caro-a92194230" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mat%c3%adas-monastirsky/" height="30" width="40" style="max-width: 100%;"></a>
 </p>
 
 Correo: florcaro621@gmail.com
