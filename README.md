@@ -1,7 +1,7 @@
 <h1>Hola👋 soy Flor</h1>
 
 <h2>✨ Quién soy?</h2> 
-Soy Programadora Full Stack orientada al desarrollo Front-end.
+Soy Programadora Full Stack orientada al desarrollo Back-end.
 Desde pequeña me ha interesado el mundo de la programacion pero no estaba lista para asumir ese gran reto hasta hace un tiempo atras que di el gran salto y empece con mi primer lenguaje que fue JavaScript, una experiencia unica!
 
 <h2>✨ Que hago?</h2> 
